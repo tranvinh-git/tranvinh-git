@@ -1,4 +1,8 @@
-## Hi there 👋
+## 
+<div align="center">
+  <h1>Hi there 👋</h1>  
+</div>
+
 
 <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
